@@ -5,9 +5,7 @@ This repository hosts institutional-style macroeconomic and FX strategy reports 
 Each report follows the *Directive Desk Macro–FX v2 (Senior Desk+)* standard:  
 cold, structured, and tradable macro analysis designed for professional use.
 
-## Latest Report
-📄 **Global Macro & FX Fundamental Outlook – 23 October 2025**  
-→ [Download PDF](KMCO_Global_Macro_Report_2025-10-23.pdf)
+## Report
 
 ## Structure
 1. Macro Drivers  
